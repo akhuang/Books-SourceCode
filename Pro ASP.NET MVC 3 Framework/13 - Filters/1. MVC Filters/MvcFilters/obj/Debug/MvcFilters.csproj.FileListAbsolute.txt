@@ -1,0 +1,7 @@
+e:\Programming\BooksSourcecode\Pro ASP.NET MVC 3 Framework\13 - Filters\1. MVC Filters\MvcFilters\bin\MvcFilters.dll
+e:\Programming\BooksSourcecode\Pro ASP.NET MVC 3 Framework\13 - Filters\1. MVC Filters\MvcFilters\bin\MvcFilters.pdb
+e:\Programming\BooksSourcecode\Pro ASP.NET MVC 3 Framework\13 - Filters\1. MVC Filters\MvcFilters\bin\Ninject.dll
+e:\Programming\BooksSourcecode\Pro ASP.NET MVC 3 Framework\13 - Filters\1. MVC Filters\MvcFilters\bin\Ninject.xml
+e:\Programming\BooksSourcecode\Pro ASP.NET MVC 3 Framework\13 - Filters\1. MVC Filters\MvcFilters\obj\Debug\ResolveAssemblyReference.cache
+e:\Programming\BooksSourcecode\Pro ASP.NET MVC 3 Framework\13 - Filters\1. MVC Filters\MvcFilters\obj\Debug\MvcFilters.dll
+e:\Programming\BooksSourcecode\Pro ASP.NET MVC 3 Framework\13 - Filters\1. MVC Filters\MvcFilters\obj\Debug\MvcFilters.pdb
